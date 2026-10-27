@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "Lead Service Line Replacement Programs in 28 U.S. Cities, 2026 (LeadPipeHelp)",
+  "description": "<p>This dataset covers how 28 U.S. city water utilities handle replacement of lead service lines on private property: free, partly paid or paid by the homeowner, with the cost, the address lookup and the official source for each city.</p><p>Each row was checked individually against official sources only, and every fact carries its official source and the date it was checked. Where an official page does not state something, the dataset says so rather than guessing. Rules change: check the official source in each row before relying on a value.</p><p>Published by LeadPipeHelp (<a href=\"https://leadpipehelp.org/\">https://leadpipehelp.org/</a>), an independent public resource run by Willow Creek Group LLC, St. Clairsville, Ohio. The live, maintained version is at <a href=\"https://leadpipehelp.org/reports/free-lead-pipe-replacement-2026/\">https://leadpipehelp.org/reports/free-lead-pipe-replacement-2026/</a>.</p>",
+  "creators": [
+    {
+      "name": "Willow Creek Group LLC"
+    },
+    {
+      "name": "Porterfield, Blake"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "lead service line",
+    "lead pipe replacement",
+    "drinking water",
+    "Lead and Copper Rule Improvements",
+    "LCRI",
+    "water utility",
+    "environmental health",
+    "United States"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://leadpipehelp.org/reports/free-lead-pipe-replacement-2026/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://leadpipehelp.org/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ]
+}
